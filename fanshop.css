@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.gkkit{margin-top: 30px;margin-left: 45px; ;width: 330px;text-align: center;border-right: solid 2px black}
+img{
+    transition: transform .2s;
+	
+}
+img:hover{
+    transform:scale(1.2);
+}
+.homekit{margin-left: 405px;width: 310px;text-align: center;margin-top: -190px;border-right: solid 2px black}
+.awaykit{width: 330px;text-align: center;margin-left: 735px;margin-top: -190px;border-right: solid 2px black}
+.thirdkit{text-align: center;width: 360px;margin-left: 1080px;margin-top: -190px}
+.bag1{border-right: solid 2px black;width: 350px;height: 240px;margin-left: 24px;text-align: center;margin-top: 25px}
+.bag2{margin-left: 365px;margin-top: -240px;width: 350px;text-align: center;border-right:solid 2px black;height: 240px}
+.bag3{text-align: center;width: 366px;border-right: solid 2px black;margin-left:700px;margin-top: -240px;height: 240px}
+.bag4{text-align: center;width: 350px;height: 240px;margin-top: -243px;margin-left: 1090px}
+.bags{margin-top: 180px}
+.kits{margin-top: 80px}
+.kitstext{background-color: black;width: 320px;height: 60px;text-align: center;margin-top: -730px;margin-left: 550px}
+.bagstext{background-color: black;width: 320px;height: 60px;text-align: center;margin-top: 320px;margin-left: 550px}
+.jewellery{width: 1000px;height: 380px;margin-top: 550px;}
+.watch{text-align:center;width:372px;border-right:solid 2px black;height: 240px}
+.watchcharm{text-align:center;width:300px;border-right:solid 2px black;margin-left:420px;margin-top:-228px;height:224px}
+.qolbag1{text-align:center;width:300px;border-right:solid 2px black;margin-left:768px;margin-top:-230px;height:232px}
+.qolbag2{text-align:center;width:300px;margin-left:1120px;margin-top:-233px}
+.watchtext{background-color:black;width:440px;height:52px;text-align:center;padding:7px;margin-left:490px;margin-top:-360px}
+.enalt{background:black;width:1460px;height:30px;text-align:right}

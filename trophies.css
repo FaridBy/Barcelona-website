@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.laliga{margin-left: 499px;margin-top: -119px}
+.fifa{margin-left: 998px;margin-top: -119px}
+.fairs{margin-left: 499px;margin-top: -119px}
+.europansuper{margin-left: 998px;margin-top: -119px}
+.pyrensescup{margin-left: 499px;margin-top: -119px}
+.copadelrey{margin-left: 998px;margin-top: -119px}
+.spanishleaguecup{margin-left: 499px;margin-top: -119px}
+.meditcup{margin-left: 998px;margin-top: -119px}
+.catalanleaguechampionship{margin-left: 499px;margin-top: -119px}
+.catalansupercup{margin-left: 998px;margin-top: -119px}
+.evaduartecup{margin-left: 499px;margin-top: -119px}
+img{
+    transition: transform .2s;
+	border-radius: 1px; border-color: black;
+	border-style: solid
+}
+img:hover{
+    transform:scale(1.2);
+}
+.txt{width: 340px;margin-top: -100px;margin-left: 1100px;background-color: black}
+.txt2{width: 340px;margin-left: 1100px;background-color: black}

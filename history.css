@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+.section1{width: 49.6%;height: 1200px;border: solid 2px black}
+.section2{width: 49.6%;height: 1200px;margin-top: 2px; border: solid 2px black}
+.section3{width: 49.6%;height: 1200px;margin-left: 50%;margin-top: -2408.5px;border: solid 2px black;background-color:#31336B}
+.section4{width: 49.6%;height: 1200px;margin-left: 50%;border: solid 2px black;margin-top: 3px;background: #31336B}
+.section5{width: 49.6%;height: 1200px;border: solid 2px black;margin-top: 2px}
+.section6{width: 49.6%;height: 1200px;border: solid 2px black;margin-top: 2px}
+.section7{width: 49.6%;height: 1200px;margin-left: 50%;margin-top: -2408px;border: solid 2px black;background: #31336B}
+.section8{width: 49.6%;height: 1200px;margin-left: 50%;border: solid 2px black;margin-top: 3px;background: #31336B}
+.img1{margin-left: 565px;margin-top: -80px}
+.textucun{width: 500px;margin-top: -865px}
+.teampic{margin-top: 810px;margin-left: 0px;}
+.text2ucun{width: 400px;margin-top: -190px;margin-left: 320px}
+
+.section1:hover{
+    background-color: gainsboro
+}
+.section2:hover{
+    background-color: gainsboro
+}
+.section3:hover{
+    background-color: gainsboro
+}
+.section4:hover{
+    background-color:gainsboro
+}
+.section5:hover{
+    background-color: gainsboro
+}
+.section6:hover{
+    background-color: gainsboro
+}
+.section7:hover{
+    background-color: gainsboro
+}
+.section8:hover{
+    background-color: gainsboro
+}
+.dreamteamimg{margin-left:80px;margin-top:10px}
+.sec2img{margin-top:100px;margin-left:10px}
+.sec2text{margin-top:280px}
+.sec2img2{margin-top:-910px}
+.sec2text2{width:400px;margin-top:-210px;margin-left:320px}
+.sec2text3{width:200px;margin-top:315px;margin-left:515px}
+.maradonaimg{margin-left:280px;margin-top:-660px}
